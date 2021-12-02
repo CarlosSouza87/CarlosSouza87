@@ -11,7 +11,7 @@ public class Concessionaria {
 		@SuppressWarnings("resource")
 		Scanner s = new Scanner(System.in);
 		ArrayList<Carros> concessionaria = new ArrayList<Carros>();
-		HashMap<String, Carros> lst_carros=new HashMap<String, Carros>();
+		HashMap<String ,Double> lst_carros=new HashMap<String, Double>();
 		Carros car;
 		
 		int qtd_carro;
@@ -35,7 +35,7 @@ public class Concessionaria {
 			System.out.println("Preço: ");
 			car.setPreco(s.nextFloat());
 			concessionaria.add(car);
-			lst_carros.put(car.getPlaca(), car);
+			lst_carros.put(car.getPlaca(), car.getPreco());
 			
 		}
 		
@@ -55,20 +55,20 @@ public class Concessionaria {
 			 "Preco:"+ car.getPreco()); 
 				
 		}
-		for (int i=0;i<concessionaria.size();i++) 
-		{
-			car=(Carros)concessionaria.get(i);
-			System.out.println("Placa: " + car.getPlaca() + ": " + 
-			car.getPreco()); 
-				
-		}
-		
 		System.out.println("Consultar Carro...Digite a placa:: ");
 		String plc = s.next();
-		car=(Carros)lst_carros.get(plc);
-		System.out.println(car.getFabricante() + ", "+ car.getModelo()+" , "+
-		car.getCor() +" , " + car.getAno()+ " , "+ "Placa: " + car.getPlaca()+
-		", "+ car.getPreco());
-
+		
+		
+		for (int i=0;i<concessionaria.size();i++) 
+			{
+			car=(Carros)concessionaria.get(i);
+			if (car.getPlaca().equals(plc)) {
+			
+			System.out.println(car.getFabricante() + ", "+ car.getModelo()+" , "+
+				car.getCor() +" , " + car.getAno()+ " , "+ "Placa: " + car.getPlaca()+
+				", "+ car.getPreco());
+						
+		}
+			}
 	}
 }
