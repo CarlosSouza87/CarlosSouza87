@@ -1,3 +1,7 @@
+Informática na Educação: Integrando Informática às
+Disciplinas do Ensino Fundamental
+
+
 Qual o problema?
 
 Dificuldade de integraçao dos alunos  do ensino fundamental ao mundo digital.
