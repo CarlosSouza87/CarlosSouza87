@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.gov.sp.fatec</groupId>
-	<artifactId>projetolabiv</artifactId>
+	<artifactId>projectlabiv</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projetolabiv</name>
+	<name>projectlabiv</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -38,8 +38,9 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
+		      <groupId>mysql</groupId>
+		      <artifactId>mysql-connector-java</artifactId>
+		      <scope>runtime</scope>
 		</dependency>
 	</dependencies>
 
