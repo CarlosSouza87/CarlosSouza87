@@ -1,8 +1,0 @@
-package strategypattern;
-
-public class Snippet {
-	public static void main(String[] args) {
-		strategypattern
-	}
-}
-
