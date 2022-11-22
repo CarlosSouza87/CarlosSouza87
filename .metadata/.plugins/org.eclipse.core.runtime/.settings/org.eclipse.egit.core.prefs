@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Faculdade\\Java\\Workspace\\APIMidAll\\.git;C\:\\Faculdade\\Java\\Workspace\\Curso_Programacao\\src\\.git;
-GitRepositoriesView.GitDirectories.relative=APIMidAll\\.git;Curso_Programacao\\src\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Faculdade\\Java\\Workspace\\APIMidAll\\.git;C\:\\Faculdade\\Java\\Workspace\\.git;C\:\\Faculdade\\Java\\Workspace\\Curso_Programacao\\src\\.git;
+GitRepositoriesView.GitDirectories.relative=APIMidAll\\.git;.git;Curso_Programacao\\src\\.git;
 RepositoryGroups.uuids=
 RepositorySearchDialogSearchPath=C\:\\Users\\carlos\\git
 eclipse.preferences.version=1
