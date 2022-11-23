@@ -10,9 +10,9 @@ MidAll</br>
 A MidAll é uma empresa de serviços e consultoria em TI, com sede no Parque Tecnológico em São José dos Campos. Desenvolve soluções de data driven, transformação digital, agilidade e eficiência e governança e segurança.
 
 
-### Visão do Projeto
+### Descrição do Projeto
 
-Criação de um motor de promoções em um Ecommerce, onde a criação, edição e exclusão de promoções possam ser feitas de forma ágil e intuitiva. Com requisitos funcionais:
+o Projeto teve como principal atividade, a criação de um processo de promoções em um E-commerce, onde o usuario poderia criar, editar e excluir diversos tipos de promoções de forma ágil e intuitiva. Com requisitos funcionais:
 * Interface de cadastro de produtos e promoções;
 * Edição de produtos;
 * Carrinho de compras;
