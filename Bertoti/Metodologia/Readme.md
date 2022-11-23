@@ -46,8 +46,8 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
          
 ### Contribuições pessoais:
 
-Desenvolvimento no front-end, utilizando o Angular, dentro desse desenvolvimento tive vários desafios na criação de telas, como:
-* Criação da tela home; </br>
+ Scrum Master  da Equipe:
+* Criação da tela home: </br>
    Desenvolvi a tela inicial da aplicação, utilizando o bootstrap para estilização da página, criação do componente home em TypeScript 
 * Criação da tela de listagem de produtos</br>
    Desenvolvimento da tela com uma tabela para exibição dos dados adquiridos do banco de dados, criação da classe de services para fazer a conexão com o banco de dados e executar a requisição de getAll de produtos, utilizando api httpClient do angular
