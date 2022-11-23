@@ -1,4 +1,4 @@
-# Projeto PromoAll : 1º semestre de 2022 - 3º semestre de Banco de Dados
+# Projeto PromoAll : 1º semestre de 2022 - 3º semestre Banco de Dados
  
  
  ## Parceiro Acadêmico
@@ -12,7 +12,8 @@ A MidAll é uma empresa de serviços e consultoria em TI, com sede no Parque Tec
 
 ### Descrição do Projeto
 
-O Projeto teve como principal atividade, a criação de um processo de promoções em um E-commerce, onde o usuario poderia criar, editar e excluir diversos tipos de promoções de forma ágil e intuitiva. Com requisitos funcionais:
+O Projeto teve como principal atividade, a criação de um processo de promoções em um E-commerce, onde o usuario poderia criar, editar e excluir diversos tipos de promoções de forma ágil e intuitiva. 
+Requisitos funcionais:
 * Interface de cadastro de produtos e promoções;
 * Edição de produtos;
 * Carrinho de compras;
