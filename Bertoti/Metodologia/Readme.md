@@ -56,7 +56,7 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
    #### Criação e Administração do Banco de Dados:   
    * Fui o responsavel pela modelagem, criação e admistração do banco de dados durante todo o projeto</br>
    
-   ####Modelo Conceitual:
+ ### Modelo Conceitual:
    * A modelagem conceitual foi construida sob a analise dos requisitos iniciais passados pela Fatec/Midall e posteriormente pelas necessidades levantadas pelo P.O. em reuniões junto ao cliente.
    
    ### Modelo Conceitual:
@@ -65,7 +65,7 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
    
 * Após a confecção,o Modelo conceitual foi conferido e aprovado pelo professor da materia de Banco de dados.
 
- ####Modelo Lógico:
+### Modelo Logico:
  
  *O modelo lógico do banco de dados fois gerado pelo software Brmodelo após o termino do da construção do modelo lógico e validado posterioprmente pelo professor e plo cliente.
  
