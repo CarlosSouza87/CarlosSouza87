@@ -47,10 +47,12 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
 ### Contribuições pessoais:
 
 ## Scrum Master  da Equipe:
-   Trabalhei conjuntamente com o Product Owner na produção da Product Backlog para que ficasse de acordo com os requisitos do cliente,obtendo o maior valor possíveln do produto.</br>
-   Facilitador, através de pesquisas de soluções e busca de recursos para os diversos tipos de dificuldades encontrado pela equipé durante todo o projeto.</br>
-    
-   
+   Trabalhei conjuntamente com o Product Owner na produção da Product Backlog para que ficasse de acordo com os requisitos do cliente,obtendo o maior valor possível do produto.</br>
+   Facilitador, através de pesquisas de soluções e busca de recursos para os diversos tipos de dificuldades encontradas pela equipe durante todo o projeto.</br>
+   Acompanhamento no desempenho da equipe, trabalhando para encontrar os pontos que atrapalhavam o andamento do projeto e resolvê-los.</br>
+   Reunião semanal com o professor M2 prestando esclarecimentos e reportando o andamento das ativdades da equipe,possiveis conflitos, além de buscar 
+   junto ao professor as melhores soluções para sua solução</br>
+        
 * Criação da tela home: </br>
    Desenvolvi a tela inicial da aplicação, utilizando o bootstrap para estilização da página, criação do componente home em TypeScript 
 * Criação da tela de listagem de produtos</br>
