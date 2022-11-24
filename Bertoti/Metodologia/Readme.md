@@ -46,7 +46,7 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
          
 ### Contribuições pessoais:
 
-### Scrum Master  da Equipe:
+## Scrum Master  da Equipe:
    Trabalhei conjuntamente com o Product Owner na produção da Product Backlog para que ficasse de acordo com os requisitos do cliente,obtendo o maior valor possíveln do produto.</br>
    Facilitador, através de pesquisas de soluções e busca de recursos para os diversos tipos de dificuldades encontrado pela equipé durante todo o projeto.</br>
     
