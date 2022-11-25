@@ -72,6 +72,7 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
   ### Modelo Logico:
  <h1 align="center"> <img src = "https://github.com/CarlosSouza87/CarlosSouza87/blob/main/Bertoti/Metodologia/imagens/Modelo_Logico.png" /></h1>
 
+### Criaçao das tabelas,campos Modelo Logico:
 
 ### Aprendizados efetivos HS:
 
