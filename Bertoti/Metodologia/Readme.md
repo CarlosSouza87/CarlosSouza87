@@ -69,14 +69,12 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
  
  *O modelo lógico do banco de dados fois gerado pelo software Brmodelo após o termino do da construção do modelo lógico e validado posterioprmente pelo professor e plo cliente.
  
-  ### Modelo Logico:
+  ### Mapa Modelo Logico:
  <h1 align="center"> <img src = "https://github.com/CarlosSouza87/CarlosSouza87/blob/main/Bertoti/Metodologia/imagens/Modelo_Logico.png" /></h1>
 
-### Criaçao das tabelas,campos Modelo Logico:
-
+### Criaçao das tabelas,campos Modelo Físico:
 
 ### Criação da tabela de Cliente e suas colunas :
-
 
 create table Cliente
 
@@ -166,24 +164,15 @@ create table Promocao_Item
  
 
 *****************************************************************************************************
-#### Aprendizados efetivos HS:
+#### Aprendizados efetivos Banco de Dados:
 
-  Dentro do desenvolvimento do sistema de E-commerce para a MidAll obtive diversos aprendizados novos, e aprofundei em outros, foram eles:
+  Dentro do desenvolvimento do sistema de E-commerce para a MidAll tinhamos varias frentes de tarefa,eu trabalhei efeteivamente:
   
-* Desenvolvimento de telas com Angular; </br>
-   Para criação das telas foi utilizado o html e css, além do bootstrap como framework para o frontend. 
-* Desenvolvimento com a linguagem TypeScript; </br>
-   Foi necessário aprender sobre a linguagem TypeScript para criação dos arquivos service para efetivar as requisições HTTP
-* Protocolo HTTP;
-* Requisições GET, POST, PUT e DELETE; </br>
-   Aprendi mais sobre essas requisições e como efetuar elas utilizando o Angular.
-* Criação de um objeto JSON para envio nas requisições;
-* Aprendi como fazer requisições no backend utilizando a api httpClient do Angular;
-* Aprofundamento em aprendizados de banco de dados, DML, DQL, criação arquitetura de tabelas ;   
-* Criação de um projeto em Vue; </br>
-   Foi necessário aprender a estrutura de pastas de um projeto em Angular.</br>
+* Na Administração do grupo em si com as tarefas de Scrum Master, </br>
    
+* Criação e modelagem do  Banco de dados no Microsoft Sql; </br>
+*  Administração do Banco  com ajustes,exclusões e criações de tabelas e colunas bem como criação de relacionamentos,  </br>
+*  Integridade referencial garantindo a total estabilidade do Banco </br>
 
-  Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura, torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Criação do banco de dados utilizado na aplicação, seguindo o padrão de chaves primaria e estrangeiras nas tabelas, criação do modelo e entidades do banco. Criação do padrão de pastas tanto no frontend como no backend. Aprendizados dos frameworks utilizados, vue e spring.
-  
-  
+Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura,regras de negocios junto ao cliente torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Criação do banco de dados utilizado na aplicação, seguindo o padrão de chaves primaria e estrangeiras nas tabelas, criação do modelo e entidades do banco.
+   
