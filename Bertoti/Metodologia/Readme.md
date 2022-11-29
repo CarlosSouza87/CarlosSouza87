@@ -75,7 +75,7 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
 ### Criaçao das tabelas,campos Modelo Logico:
 
 
-### Cruação da tabela de Clientes:
+### Criação da tabela de Cliente e suas colunas :
 
 
 create table Cliente
@@ -90,6 +90,82 @@ cpf_cliente numeric(11) unique,
 
 cidade_cliente varchar(120))
 
+### Criação da tabela de Categoria, suas colunasn e relacionamento :
+
+create table Categoria
+
+(cod_categoria numeric(6) primary key,
+
+nome_categoria varchar(30),
+
+descricao_categoria varchar(120))
+
+### Criação da tabela de Promoção, suas colunas e relacionamentos :
+
+create table Promocao
+
+(cod_promo numeric(6) primary key,
+
+desconto_promo numeric(2),
+
+novo_valor numeric(6,2),
+
+periodo_inicio date not null,
+
+periodo_final date)
+
+### Criação da tabela de Produto,suas colunas e relacionamentos :
+
+create table Produto
+
+(codigo_produto numeric(6) primary key,
+
+ categoria_produto numeric(6) foreign key references Categoria(cod_categoria),
+ 
+ nome_produto varchar(50),
+ 
+ descricao_produto varchar(120),
+ 
+ preco_produto numeric(6,2),
+ 
+ estoque_produto numeric(4),
+ 
+ marca_produto varchar(30))
+ 
+### Criação da tabela de Pedido,suas colunas e relacionamentos:
+
+create table Pedido
+
+(codigo_pedido numeric(6)  primary key,
+
+cliente_pedido numeric(6) foreign key references Cliente(cod_cliente),
+
+ total_pedido numeric(6,2),
+ 
+ data_pedido date)
+ 
+### Criação da tabela de Item_Pedido,suas colunas e relacionamentos :
+
+create table Item_Pedido 
+
+ ( numero_pedido numeric(6) foreign key references Pedido(codigo_pedido),
+ 
+ codigo_produto numeric(6) foreign key references Produto(codigo_produto),
+ 
+ quantidade_item numeric(5),
+ 
+ valor_item  numeric(6,2))
+ 
+### Criação da tabela de Promocao_Item,suas colunas e relacionamentos:
+
+create table Promocao_Item
+
+ (produto_item numeric(6) foreign key references Produto(codigo_produto),
+ 
+ promo_item numeric(6) foreign key references Promocao(cod_promo))
+ 
+
+*****************************************************************************************************
 #### Aprendizados efetivos HS:
 
   Dentro do desenvolvimento do sistema de E-commerce para a MidAll obtive diversos aprendizados novos, e aprofundei em outros, foram eles:
