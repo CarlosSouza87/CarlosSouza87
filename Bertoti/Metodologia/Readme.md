@@ -88,7 +88,7 @@ cpf_cliente numeric(11) unique,
 
 cidade_cliente varchar(120))
 
-### Criação da tabela de Categoria, suas colunasn e relacionamento :
+### Criação da tabela de Categoria, suas colunas e relacionamento :
 
 create table Categoria
 
