@@ -79,10 +79,15 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
 
 
 create table Cliente
+
 (cod_cliente numeric(6) primary key,
+
 nome_cliente varchar(50),
+
 data_nascimento date,
+
 cpf_cliente numeric(11) unique,
+
 cidade_cliente varchar(120))
 
 #### Aprendizados efetivos HS:
