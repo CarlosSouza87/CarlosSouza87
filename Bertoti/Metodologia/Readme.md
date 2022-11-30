@@ -56,33 +56,123 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
    #### Criação e Administração do Banco de Dados:   
    * Fui o responsavel pela modelagem, criação e admistração do banco de dados durante todo o projeto</br>
    
-   ####Modelo Conceitual:
+ ### Modelo Conceitual:
    * A modelagem conceitual foi construida sob a analise dos requisitos iniciais passados pela Fatec/Midall e posteriormente pelas necessidades levantadas pelo P.O. em reuniões junto ao cliente.
    
    ### Modelo Conceitual:
    
+   <h1 align="center"> <img src = "https://github.com/CarlosSouza87/CarlosSouza87/blob/main/Bertoti/Metodologia/imagens/Modelo_Conceitual.png" /></h1>
    
+* Após a confecção,o Modelo conceitual foi conferido e aprovado pelo professor da materia de Banco de dados.
+
+### Modelo Logico:
+ 
+ *O modelo lógico do banco de dados fois gerado pelo software Brmodelo após o termino do da construção do modelo lógico e validado posterioprmente pelo professor e plo cliente.
+ 
+  ### Mapa Modelo Logico:
+ <h1 align="center"> <img src = "https://github.com/CarlosSouza87/CarlosSouza87/blob/main/Bertoti/Metodologia/imagens/Modelo_Logico.png" /></h1>
+
+### Criaçao das tabelas,campos Modelo Físico:
+
+### Criação da tabela de Cliente e suas colunas :
+
+create table Cliente
+
+(cod_cliente numeric(6) primary key,
+
+nome_cliente varchar(50),
+
+data_nascimento date,
+
+cpf_cliente numeric(11) unique,
+
+cidade_cliente varchar(120))
+
+### Criação da tabela de Categoria, suas colunas e relacionamento :
+
+create table Categoria
+
+(cod_categoria numeric(6) primary key,
+
+nome_categoria varchar(30),
+
+descricao_categoria varchar(120))
+
+### Criação da tabela de Promoção, suas colunas e relacionamentos :
+
+create table Promocao
+
+(cod_promo numeric(6) primary key,
+
+desconto_promo numeric(2),
+
+novo_valor numeric(6,2),
+
+periodo_inicio date not null,
+
+periodo_final date)
+
+### Criação da tabela de Produto,suas colunas e relacionamentos :
+
+create table Produto
+
+(codigo_produto numeric(6) primary key,
+
+ categoria_produto numeric(6) foreign key references Categoria(cod_categoria),
+ 
+ nome_produto varchar(50),
+ 
+ descricao_produto varchar(120),
+ 
+ preco_produto numeric(6,2),
+ 
+ estoque_produto numeric(4),
+ 
+ marca_produto varchar(30))
+ 
+### Criação da tabela de Pedido,suas colunas e relacionamentos:
+
+create table Pedido
+
+(codigo_pedido numeric(6)  primary key,
+
+cliente_pedido numeric(6) foreign key references Cliente(cod_cliente),
+
+ total_pedido numeric(6,2),
+ 
+ data_pedido date)
+ 
+### Criação da tabela de Item_Pedido,suas colunas e relacionamentos :
+
+create table Item_Pedido 
+
+ ( numero_pedido numeric(6) foreign key references Pedido(codigo_pedido),
+ 
+ codigo_produto numeric(6) foreign key references Produto(codigo_produto),
+ 
+ quantidade_item numeric(5),
+ 
+ valor_item  numeric(6,2))
+ 
+### Criação da tabela de Promocao_Item,suas colunas e relacionamentos:
+
+create table Promocao_Item
+
+ (produto_item numeric(6) foreign key references Produto(codigo_produto),
+ 
+ promo_item numeric(6) foreign key references Promocao(cod_promo))
+ 
+
+*****************************************************************************************************
+#### Aprendizados efetivos Banco de Dados:
+
+  Dentro do desenvolvimento do sistema de E-commerce para a MidAll tinhamos varias frentes de tarefa,eu trabalhei efeteivamente:
+  
+* Na Administração do grupo em si com as tarefas de Scrum Master, </br>
    
-:
+* Criação e modelagem do  Banco de dados no Microsoft Sql; </br>
+*  Administração do Banco  com ajustes,exclusões e criações de tabelas e colunas bem como criação de relacionamentos,  </br>
+*  Integridade referencial garantindo a total estabilidade do Banco </br>
 
-### Aprendizados efetivos HS:
-
-  Dentro do desenvolvimento do sistema de E-commerce para a MidAll obtive diversos aprendizados novos, e aprofundei em outros, foram eles:
-  
-* Desenvolvimento de telas com Angular; </br>
-   Para criação das telas foi utilizado o html e css, além do bootstrap como framework para o frontend. 
-* Desenvolvimento com a linguagem TypeScript; </br>
-   Foi necessário aprender sobre a linguagem TypeScript para criação dos arquivos service para efetivar as requisições HTTP
-* Protocolo HTTP;
-* Requisições GET, POST, PUT e DELETE; </br>
-   Aprendi mais sobre essas requisições e como efetuar elas utilizando o Angular.
-* Criação de um objeto JSON para envio nas requisições;
-* Aprendi como fazer requisições no backend utilizando a api httpClient do Angular;
-* Aprofundamento em aprendizados de banco de dados, DML, DQL, criação arquitetura de tabelas ;   
-* Criação de um projeto em Vue; </br>
-   Foi necessário aprender a estrutura de pastas de um projeto em Angular.</br>
+Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura,regras de negocios junto ao cliente torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Criação do banco de dados utilizado na aplicação, seguindo o padrão de chaves primaria e estrangeiras nas tabelas, criação do modelo e entidades do banco.
    
-
-  Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura, torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Criação do banco de dados utilizado na aplicação, seguindo o padrão de chaves primaria e estrangeiras nas tabelas, criação do modelo e entidades do banco. Criação do padrão de pastas tanto no frontend como no backend. Aprendizados dos frameworks utilizados, vue e spring.
-  
-  
