@@ -63,7 +63,7 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
    
    <h1 align="center"> <img src = "https://github.com/CarlosSouza87/CarlosSouza87/blob/main/Bertoti/Metodologia/imagens/Modelo_Conceitual.png" /></h1>
    
-* Após a confecção,o Modelo conceitual foi conferido e aprovado pelo professor da materia de Banco de dados.
+* Após a confecção,o modelo conceitual foi conferido e aprovado pelo professor da materia de Banco de dados.
 
 ### Modelo Logico:
  
