@@ -175,5 +175,5 @@ create table Promocao_Item
 *  Integridade referencial garantindo a total estabilidade do Banco </br>
 
 Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura,regras de negocios junto ao cliente e torná-lo componentizável,seguindo modos de construção comuns aos utilizados no mercado e comunidade. 
-A criação do banco de dados utilizado na aplicação, seguiu o padrão de chaves primaria e estrangeiras nas tabelas,assim comoa  criação do modelo e as entidades do banco.
+A criação do banco de dados utilizado na aplicação, seguiu o padrão de chaves primaria e estrangeiras nas tabelas,assim como a  criação do modelo e as entidades do banco.
    
