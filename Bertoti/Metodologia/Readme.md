@@ -51,7 +51,7 @@ Para o front-end foi utilizado o Angular que é uma plataforma baseada em Typesc
  *  Facilitador, através de pesquisas de soluções e busca de recursos para os diversos tipos de dificuldades encontradas pela equipe durante todo o projeto.</br>
  *  Acompanhamento no desempenho da equipe, trabalhando para encontrar os pontos que atrapalhavam o andamento do projeto e resolvê-los.</br>
    Reunião semanal com o professor M2 prestando esclarecimentos e reportando o andamento das ativdades da equipe,possiveis conflitos, além de buscar 
-   junto ao professor as melhores soluções para sua solução</br>
+   junto ao professor as melhores soluções para osproblemas que se apresentavam</br>
    
    #### Criação e Administração do Banco de Dados:   
    * Fui o responsavel pela modelagem, criação e admistração do banco de dados durante todo o projeto</br>
