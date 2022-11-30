@@ -174,5 +174,6 @@ create table Promocao_Item
 *  Administração do Banco  com ajustes,exclusões e criações de tabelas e colunas bem como criação de relacionamentos,  </br>
 *  Integridade referencial garantindo a total estabilidade do Banco </br>
 
-Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura,regras de negocios junto ao cliente torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Criação do banco de dados utilizado na aplicação, seguindo o padrão de chaves primaria e estrangeiras nas tabelas, criação do modelo e entidades do banco.
+Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura,regras de negocios junto ao cliente e torná-lo componentizável,seguindo modos de construção comuns aos utilizados no mercado e comunidade. 
+A criação do banco de dados utilizado na aplicação, seguiu o padrão de chaves primaria e estrangeiras nas tabelas,assim comoa  criação do modelo e as entidades do banco.
    
