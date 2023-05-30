@@ -1,4 +1,4 @@
-# PROJETO INTEGRADOR - FATEC -São Jose do Campos
+# Projeto Integrator - FATEC -São Jose do Campos
 ## Cliente Interno -Prof. Sabha
 # Projeto Vai de Van:2º semestre de 2020 - 1º semestre Banco de Dados
 ## Grupo Mobteam
