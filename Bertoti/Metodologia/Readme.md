@@ -13,16 +13,15 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 3. Definição de rota. A partir de um ponto de saída e um destino, o app sugere a ordem em que os passageiros devem ser apanhados. O motorista pode definir, de acordo com sua experiência e condições de trânsito o horário estimado em que chegará na localidade de cada passageiro.
 4. Função "hora prevista". O app deve informar ao passageiro a hora prevista de chegada da van (na ida) e qual o horário previsto para entrega (na volta).
 5. Utilizar o APP INVENTOR
+
 ### Contribuições pessoais:
+
 #### PO  da Equipe:
-*   Fui o PO do projeto responsavel por levantar junto ao cliente as necessidades e solicitações  para que o sistema ficasse de acordo com os requisitos solicitados  do cliente,obtendo o maior valor possível do produto.</br>
- *  Facilitador, através de pesquisas de soluções e busca de recursos para os diversos tipos de dificuldades encontradas pela equipe durante todo o projeto.</br>
- *  Acompanhamento no desempenho da equipe, trabalhando para encontrar os pontos que atrapalhavam o andamento do projeto e resolvê-los.</br>
-   Reunião semanal com o professor M2 prestando esclarecimentos e reportando o andamento das ativdades da equipe,possiveis conflitos, além de buscar 
-   junto ao professor as melhores soluções para osproblemas que se apresentavam</br>
+*   Fui o PO do projeto responsavel por levantar junto ao cliente as necessidades e atender as solicitações  para que o sistema ficasse de acordo com os requisitos do projeto,obtendo o maior valor possível do produto.</br>
+*  Acompanhamento no desenvolvimento  do APP, validando todos o processsos implementados e apresentando o sistema em todas as Sprints.</br>
 
 # Datas dos Sprints:
-1. -****Sprint 0 - Início: 07/09/2020 Entrega: 27/09/2020 (Executado)****
+1. -****Sprint 0 - Início: 07/09/2020 Entrega: 27/09/2020 ***
 2. -****Sprint 1 - Início: 28/09/2020 Entrega: 18/10/2020****
 3. -****Sprint 2 - Início: 19/10/2020 Entrega: 08/11/2020****
 4. -****Sprint 3 - Início: 09/11/2020 Entrega: 29/11/2020****
