@@ -3,14 +3,6 @@
 # Projeto Vai de Van:2º semestre de 2020 - 1º semestre Banco de Dados
 ## Grupo Mobteam
 * Carlos Fernando de Souza [linkedin](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)
-* Danilo Silva Lima [linkedin](https://www.linkedin.com/in/danilo-silva-lima-029bb8142/)
-* Douglas Hiromi Nishiama (Master 6º Semestre) [linkedin](https://www.linkedin.com/in/douglasnishiama/)
-* Fábio José da Silva [](url)
-* Jéssica Helen Helbusto Rosado (Master 6º Semestre) [linkedin](https://www.linkedin.com/in/jessica-rosado)
-* Junio Luiz Sendreto dos Santos [linkedin](www.linkedin.com/in/junio-sendreto)
-* Leonardo Souza Ferrianci [linkedin](https://www.linkedin.com/in/leonardo-ferrianci-a245ba19b/)
-* Michelle Cristine dos Santos [linkedin](https://www.linkedin.com/in/michelle-santos-99662375)
-* Paulo Vitor Lima Domingues da Silva [linkedin](https://www.linkedin.com/in/paulo-vítor/)
 # Aplicativo Vaidevan - Necessidade
 O cliente é um motorista autonomo de Van, que necessita de um aplicativo que controle o  serviço de transporte de seus passageiros(clientes fixos e pré-cadastrados)em seu trajeto  pré-determinado, tanto na ida quanto na volta, durante a semana(segunda a sexta feira)
 ## Requisitos
@@ -78,14 +70,6 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 
 
 
-
-
-
-# <h2> Sprint 3 -
-1. **Entrega da definição de melhor rota calculada pelo App.** <br>
-![](https://uploaddeimagens.com.br/images/002/983/594/full/WhatsApp_Image_2020-11-29_at_14.38.32_%281%29.jpeg?1606688544)![](https://uploaddeimagens.com.br/images/002/983/595/full/WhatsApp_Image_2020-11-29_at_14.38.32.jpeg?1606688555) <br>
-![](https://uploaddeimagens.com.br/images/002/983/597/full/WhatsApp_Image_2020-11-29_at_14.38.33_%282%29.jpeg?160)![](https://uploaddeimagens.com.br/images/002/983/598/full/WhatsApp_Image_2020-11-29_at_14.38.33.jpeg?1606688634) <br>
-![](https://uploaddeimagens.com.br/images/002/983/596/full/WhatsApp_Image_2020-11-29_at_14.38.33_%281%29.jpeg?160668859)
 
 ****************************************************************************************************************************
 # Projeto PromoAll : 1º semestre de 2022 - 3º semestre Banco de Dados
