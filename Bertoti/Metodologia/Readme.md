@@ -1,7 +1,7 @@
 # Projeto Integrator - FATEC -São Jose do Campos
 # Carlos Fernando de Souza [linkedin](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)
 ## Cliente Interno -Prof. Sabha
-# Projeto Vai de Van:2º semestre de 2020 - 1º semestre Banco de Dados
+# Projeto Vai de Van:- 1º semestre Banco de Dados
 # Aplicativo Vaidevan - Necessidade
 O cliente é um motorista autonomo de Van, que necessita de um aplicativo que controle o  serviço de transporte de seus passageiros(clientes fixos e pré-cadastrados)em seu trajeto  pré-determinado, tanto na ida quanto na volta, durante a semana(segunda a sexta feira)
 ## Requisitos
