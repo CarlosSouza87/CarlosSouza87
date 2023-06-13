@@ -3,6 +3,8 @@
 ## Cliente Interno -Prof. Sabha
 # Projeto Vai de Van:- 1º semestre Banco de Dados
 # Aplicativo Vaidevan - Necessidade
+
+### Descrição do Projeto
 O cliente é um motorista autonomo de Van, que necessita de um aplicativo que controle o  serviço de transporte de seus passageiros(clientes fixos e pré-cadastrados)em seu trajeto  pré-determinado, tanto na ida quanto na volta, durante a semana(segunda a sexta feira)
 ## Requisitos
  **São requisitos obrigatório exigidos pelo cliente:**
@@ -11,6 +13,14 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 3. Definição de rota. A partir de um ponto de saída e um destino, o app sugere a ordem em que os passageiros devem ser apanhados. O motorista pode definir, de acordo com sua experiência e condições de trânsito o horário estimado em que chegará na localidade de cada passageiro.
 4. Função "hora prevista". O app deve informar ao passageiro a hora prevista de chegada da van (na ida) e qual o horário previsto para entrega (na volta).
 5. Utilizar o APP INVENTOR
+### Contribuições pessoais:
+#### PO  da Equipe:
+*   Fui o PO do projeto responsavel por levantar junto ao cliente as necessidades e solicitações  para que o sistema ficasse de acordo com os requisitos solicitados  do cliente,obtendo o maior valor possível do produto.</br>
+ *  Facilitador, através de pesquisas de soluções e busca de recursos para os diversos tipos de dificuldades encontradas pela equipe durante todo o projeto.</br>
+ *  Acompanhamento no desempenho da equipe, trabalhando para encontrar os pontos que atrapalhavam o andamento do projeto e resolvê-los.</br>
+   Reunião semanal com o professor M2 prestando esclarecimentos e reportando o andamento das ativdades da equipe,possiveis conflitos, além de buscar 
+   junto ao professor as melhores soluções para osproblemas que se apresentavam</br>
+
 # Datas dos Sprints:
 1. -****Sprint 0 - Início: 07/09/2020 Entrega: 27/09/2020 (Executado)****
 2. -****Sprint 1 - Início: 28/09/2020 Entrega: 18/10/2020****
@@ -35,6 +45,7 @@ O cliente é um motorista autonomo de Van, que necessita de um aplicativo que co
 * MIT AI2 Companion - Aplicativo emulador para Android.
 * aiStater - Aplicativo aiStarter (emulador de Sistema Android para PC).
 
+##Entregas
 # <h2> Sprint 0 -- Tela inicial de cadastro - 
 * **Demonstração da tela inicial com login no aplicativo**
 * **Demonstração do cadastro inicial do usuarios (Motorista e Passageiros)**<br>
