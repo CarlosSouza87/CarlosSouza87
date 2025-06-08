@@ -32,6 +32,5 @@
 
 ## Contatos 
 [GIT](https://github.com/CarlosSouza87)
-<br>[GMAIL](carlosfernandos1000@gmail.com)
 <br>[LinkedIn](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)
 
