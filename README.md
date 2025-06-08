@@ -25,12 +25,12 @@
 
 [4º Semestre  -  Projeto - BoatHelp ](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_4.md)
 
- [5º Semestre  -  Projeto - TransferCloud ](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_5.md)
+  [5º Semestre  -  Projeto - TransferCloud ](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_5.md)
 
  [6º Semestre -  Projeto - TechVision](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_6.md)
  <div align="center"><br> 
 
 ## Contatos 
 [GIT](https://github.com/CarlosSouza87)
-<br>[LinkedIn](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)
+[LinkedIn](https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/)
 
