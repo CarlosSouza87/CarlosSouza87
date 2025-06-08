@@ -15,19 +15,19 @@
   Compartilho com voces aqui os projetos do qual participei com meu grupo de amigos acadêmicos,do qual tive muito orgulho em participar.
 
 <div align="center"><br> 
-<h2>:open_file_folder:  PROJETOS</h2> 
+<h2>:open_file_folder:  PROJETOS ACADÊMICOS</h2> 
 
-[1º Projeto - Vai de van](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_1.md) 
+[1º  Semestre -  Projeto - Vai de Van](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_1.md) 
 
-[2º Projeto - Consult CAR](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_2.md)
+[2º Semestre  -  Projeto - Vigilant](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_2.md)
 
-[3º Projeto - Scrum-Cloud](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_3.md)
+[3º Semestre  -  Projeto - Scrum-Cloud](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_3.md)
 
-[4º Projeto - LEFOOT](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_4.md)
+[4º Semestre  -  Projeto - LEFOOT](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_4.md)
 
-[5º Projeto - TechNINJAS](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_5.md)
+[5º Semestre  -  Projeto - TechNINJAS](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_5.md)
 
- [6º Projeto - TechVision](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_6.md)
+[6º Semestre -  Projeto - TechVision](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_6.md)
  <div align="center"><br> 
 
 ## Contatos 
