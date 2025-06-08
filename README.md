@@ -21,7 +21,7 @@
 
 [2º Semestre  -  Projeto - Vigilant](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_2.md)
 
-[3º Semestre  -  Projeto - Promo All](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_3.md)
+[3º Semestre  -  Projeto - PromoAll](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_3.md)
 
 [4º Semestre  -  Projeto - LEFOOT](https://github.com/CarlosSouza87/Portfolio-Fatec/blob/main/Projetos/API_4.md)
 
